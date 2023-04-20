@@ -1,0 +1,33 @@
+.base{
+    position: absolute;
+    width: 790px;
+    left: 275px;
+}
+
+
+.acessorio{
+    position: absolute;
+    width: 770px;
+    top: 450px;
+    left: 290px;
+}
+
+.acessorios{
+    width: 150px;
+    position: absolute;
+    top: 457px;
+    left: 595px;
+}
+
+.venda2{
+    width: 700px;
+    position: absolute;
+    left: 325px; top: 510px;
+}
+
+.tennis{
+    position: absolute;
+    width: 800px;
+    top: 870px;
+    left: 275px
+}
